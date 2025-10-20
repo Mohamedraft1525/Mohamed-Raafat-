@@ -1,0 +1,7 @@
+Cairo
+
+Tempreature is:  32
+
+Humidity is :  38%
+
+Status is : مشمس
